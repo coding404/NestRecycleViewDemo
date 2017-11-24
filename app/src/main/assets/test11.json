@@ -1,0 +1,109 @@
+{
+  "status": 0,
+  "message": "成功",
+  "histList": [
+    {
+      "dateStr": "2017年09月14",
+      "tranList": [
+        {
+          "hourTime": "10:10:21",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmg234t5y6ui7898gfhfdgbhfmdrs;e;lw35rterlgl;drg;lrelwetrhyefsadfsawedfwrfewfesfesefesfesfese4rfse4rewsfs4efsegtrgrdgser",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:22",
+          "contentDetail": "1234567896544123456789876512rdfkhfdgthdfthfthsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:23",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:24",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:25",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:26",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        }
+      ]
+    },{
+      "dateStr": "2017年09月15",
+      "tranList": [
+        {
+          "hourTime": "10:10:27",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmg234t5y6ui7898gfhfdgbhfmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:28",
+          "contentDetail": "1234567896544123456789876512rdfkhfdgthdfthfthsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:29",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:30",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:31",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:32",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        }
+      ]
+    },{
+      "dateStr": "2017年09月16",
+      "tranList": [
+        {
+          "hourTime": "10:10:33",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmg234t5y6ui7898gfhfdgbhfmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:34",
+          "contentDetail": "1234567896544123456789876512rdfkhfdgthdfthfthsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:35",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:10:36",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:11:21",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        },
+        {
+          "hourTime": "10:11:23",
+          "contentDetail": "1234567896544123456789876512rdfkhsdf mgblkdrlgmlkdsmgmdrs;e;lw35rterlgl;drg;lrel",
+          "isShowAll": false
+        }
+      ]
+    }
+  ]
+}
